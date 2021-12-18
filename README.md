@@ -4,7 +4,8 @@ Swing Java-based app integrating OpenWeatherMap API, a JSON-based song list from
 Login window:
 
 ![image](https://user-images.githubusercontent.com/96338110/146640882-546e856a-4423-4c15-ab1c-bff1c423b99e.png)
-*Usuario: alberto.diaz    Contraseña:alberto*
+
+#*Usuario: alberto.diaz    Contraseña:alberto*#
 
 Main window:
 
